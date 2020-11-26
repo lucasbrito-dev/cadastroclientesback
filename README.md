@@ -1,2 +1,2 @@
 # cadastroclientesback
-Aplicação backend para cadastro de clientes
+Aplicação backend para cadastro de clientes (Java, Spring Boot)
